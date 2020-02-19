@@ -1,0 +1,31 @@
+pt-br:
+  locale_name: Português Brazil
+  nav:
+    about: Sobre
+    contribute: Contribuir
+  index:
+    lead: O software de código aberto é feito por pessoas como você. Aprenda como iniciar e expandir seu projeto.
+    opensourcefriday: É sexta feira! Invista algumas horas contribuindo para o software que você usa e adora
+  article:
+    table_of_contents: Índice
+    back_to_all_guides: Voltar a todos os guias
+    related_guides: Guias Relacionados
+  footer:
+    contribute:
+      heading: Contribuir
+      description: Quer fazer uma sugestão? Este conteúdo é de código aberto. Ajude-nos a melhorá-lo.
+      button: Contribuir
+    subscribe:
+      heading: Manter contato
+      description: Seja o primeiro a saber das últimas dicas e recursos de código aberto do GitHub.
+      label: Endereço de e-mail
+      button: Se inscrever
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] com [love] por [github] e [friends]"
+      # Label for code octicon
+      code_label: código
+      # Label for love octicon
+      love_label: amor
+      # Label for the contributors link
+      friends_label: amigos
